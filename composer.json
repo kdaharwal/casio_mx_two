@@ -1,5 +1,5 @@
 {
-    "name": "casio-mx/module-three",
+    "name": "casiomx/module-three",
     "description": "CasioMx Three Module",
     "require": {
       "php": "~7.3.0||~7.4.0",

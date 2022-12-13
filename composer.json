@@ -1,6 +1,6 @@
 {
-    "name": "casiomx/module-three",
-    "description": "CasioMx Three Module",
+    "name": "casiomx/module-two",
+    "description": "CasioMx Two Module",
     "require": {
       "php": "~7.3.0||~7.4.0",
       "magento/framework": "*"
